@@ -28,8 +28,8 @@ My current goal is to deepen my knowledge in these areas and get my first projec
 Making my Python Command Line Quiz available on [GitHub](https://github.com/JuliusDeane-data/Python_CL_Quiz)
 
 ## 📫 Contact me
-- [GitHub](https://github.com/JuliusDeane-data)
-- [LinkedIn](https://www.linkedin.com/in/philip-koloczek/)
+- [Kaggle](https://www.kaggle.com/jdeane)
+- [BlueSky](https://bsky.app/profile/juliusdeane.bsky.social)
 
 ## 🎉 Quote of the month
 >"Only those who set out on a journey will discover new lands!" - Hugo von Hofmannsthal
