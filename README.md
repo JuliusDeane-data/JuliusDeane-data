@@ -31,17 +31,26 @@ This application is a comprehensive portfolio tracker designed to help users mon
 * `REST APIs`
 
 **Databases & Caching:**
-* `SQL` (PostgreSQL)
+* `PostgeSQL` (SQL)
 * `Redis`
+* `Database optimization techniques`
+* `ETL and data pipelines`
 
 **DevOps & Cloud:**
 * `Heroku`
 * `AWS S3`
-* `Git` & `GitHub`
+* `CI/CD pipelines (GitHub Actions)`
 
-**Data & Other Tools:**
-* `Swagger (OpenAPI)`
-* `PyCharm` & `VS Code`
+**Testing & Quality:**
+* `Unit and integration testing`
+* `Test coverage tools (coverage.py)`
+* `Code quality tools (flake8)`
+
+**Tools & Workflow:**
+* `Documentation (Postman, Swagger/OpenAPI)`
+* `Git`
+* `Agile/Scrum`
+* `Jira`
 
 ---
 
@@ -70,5 +79,6 @@ _**[Read the full recommendation here](https://gist.github.com/JuliusDeane-data/
 ---
 
 Thanks for visiting.  
-Catch you later 👾  
+Catch you later 👾
+
 ![picture with bird](images/20240902_123348.jpg)
