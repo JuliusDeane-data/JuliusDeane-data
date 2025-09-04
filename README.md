@@ -2,54 +2,65 @@
 
 Welcome to my GitHub profile.
 
-After a few years in startup marketing, I found myself increasingly drawn to the technical side of things – data, automation, and figuring out how stuff works. That curiosity turned into a career shift.
+After a few years in startup marketing, I found myself increasingly drawn to the technical side of things – data, automation, and figuring out how stuff works. 
+That curiosity led me to a career shift into software development.
 
-I’m currently in a full-time, 12-month program to become a Python Backend Developer (DCI). My focus areas: Python, Django, SQL, and building useful things. I'm also expanding my skills in Data Analytics and Data Science on the side.
+I am now in the final stages of an intensive 12-month Python Backend Developer program. 
+My focus has been on building robust, scalable applications with Python, Django, and SQL. 
+I am actively seeking an entry-level backend developer position where I can contribute to a team and continue to grow my skills.
 
-At the moment, I’m still early in the process – but new projects are on the way, and this space will fill up quickly.
+--- 
+
+## ✨ Featured Project: PortWise (Portfolio Tracker)
+
+I am currently the **Team Lead** for our final project, `PortWise`, guiding a team of five developers. 
+This application is a comprehensive portfolio tracker designed to help users monitor their financial assets.
+
+* **My Role:** As Team Lead, I'm responsible for architectural decisions, task delegation, code reviews, and ensuring our team meets project milestones.
+* **Core Functionality:** User authentication, real-time data integration with financial APIs, asset tracking, and performance visualization, automatic portfolio data import via PDF.
+* **Tech Stack:** Python, Django REST Framework, PostgreSQL, Celery for asynchronous tasks, Redis for caching, deployment on Heroku with AWS S3 for static file storage. API documentation is managed with Swagger.
 
 ---
 
-## 💪 Skills in Progress
+## 💻 My Tech Stack
 
-**Currently learning**
-- Python
-- Django
-- Rest APIs
-- SQL
-- Pandas
-- Matplotlib
+**Backend:**
+* `Python`
+* `Django` & `Django REST Framework`
+* `Celery`
+* `REST APIs`
 
-**Working with**
-- VS Code
-- PyCharm
-- Docker
-- Git & GitHub
+**Databases & Caching:**
+* `SQL` (PostgreSQL)
+* `Redis`
+
+**DevOps & Cloud:**
+* `Heroku`
+* `AWS S3`
+* `Git` & `GitHub`
+
+**Data & Other Tools:**
+* `Swagger (OpenAPI)`
+* `PyCharm` & `VS Code`
+
+---
+
+## 🧑‍🏫 Learning about
+* `Pandas` & `Matplotlib`
+* `Docker`
 
 ---
 
 ## 🎯 Current Goals
-1. Build real backend and data analysis projects
-2. Grow this GitHub with meaningful work
-3. Write cleaner, more thoughtful code
-
----
-
-## 🏆 Latest small win
-Released my [Python Command Line Quiz](https://github.com/JuliusDeane-data/Python_CL_Quiz).  
-Yes, it's just a CLI quiz, but I built the logic and the bugs all by myself.
-
----
-
-## 📫 Contact
-- [Kaggle](https://www.kaggle.com/jdeane)
-- [BlueSky](https://bsky.app/profile/juliusdeane.bsky.social)
+1.  Secure an entry-level Backend Developer role in a collaborative environment.
+2.  Deepen my understanding of system design, scalability, and cloud architecture.
+3.  Contribute meaningfully to a real-world product and write clean, maintainable code.
 
 ---
 
 ## 🎉 Quote of the Month
-> "Only those who set out on a journey will discover new lands."  
-> – Hugo von Hofmannsthal
+> "The secret of change is to focus all of your energy, not on fighting the old, but on building the new."  
+> – Socrates
 
 ---
 
