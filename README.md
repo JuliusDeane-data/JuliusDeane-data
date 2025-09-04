@@ -58,9 +58,13 @@ This application is a comprehensive portfolio tracker designed to help users mon
 
 ---
 
-## 🎉 Quote of the Month
-> "The secret of change is to focus all of your energy, not on fighting the old, but on building the new."  
-> – Socrates
+## 💬 Recommendation
+
+> "Philip is a truly talented and passionate developer with a strong ability to learn new technologies independently and rapidly. His expertise as a backend developer is particularly impressive, he possesses a deep understanding of system architecture, designing scalable and robust solutions that stand the test of time."
+
+— **Iuliia Shcherbyna**, Senior Developer & Instructor ([GitHub Profile](https://github.com/mamasitta))
+
+_**[Read the full recommendation here](https://gist.github.com/JuliusDeane-data/be8399bef7c69cdd1d306edf5da99c30)**_
 
 ---
 
