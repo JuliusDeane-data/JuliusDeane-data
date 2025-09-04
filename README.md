@@ -9,6 +9,10 @@ I am now in the final stages of an intensive 12-month Python Backend Developer p
 My focus has been on building robust, scalable applications with Python, Django, and SQL. 
 I am actively seeking an entry-level backend developer position where I can contribute to a team and continue to grow my skills.
 
+Language skills:
+🇩🇪 Native
+🇬🇧 C1
+
 --- 
 
 ## ✨ Featured Project: PortWise (Portfolio Tracker)
