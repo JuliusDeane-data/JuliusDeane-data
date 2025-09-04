@@ -46,6 +46,7 @@ This application is a comprehensive portfolio tracker designed to help users mon
 ---
 
 ## 🧑‍🏫 Learning about
+* `BeautifulSoup`
 * `Pandas` & `Matplotlib`
 * `Docker`
 
